@@ -29,7 +29,7 @@
 		02DFE50A21287978003E5091 /* DjVuToPS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02DFE49921287977003E5091 /* DjVuToPS.cpp */; };
 		02DFE50B21287978003E5091 /* DjVmNav.h in Headers */ = {isa = PBXBuildFile; fileRef = 02DFE49A21287977003E5091 /* DjVmNav.h */; };
 		02DFE50C21287978003E5091 /* GRect.h in Headers */ = {isa = PBXBuildFile; fileRef = 02DFE49B21287977003E5091 /* GRect.h */; };
-		02DFE50D21287978003E5091 /* miniexp.h in Headers */ = {isa = PBXBuildFile; fileRef = 02DFE49C21287977003E5091 /* miniexp.h */; };
+		02DFE50D21287978003E5091 /* miniexp.h in Headers */ = {isa = PBXBuildFile; fileRef = 02DFE49C21287977003E5091 /* miniexp.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		02DFE50E21287978003E5091 /* JB2EncodeCodec.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02DFE49D21287977003E5091 /* JB2EncodeCodec.cpp */; };
 		02DFE50F21287978003E5091 /* DjVuFileCache.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02DFE49E21287977003E5091 /* DjVuFileCache.cpp */; };
 		02DFE51021287978003E5091 /* XMLTags.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02DFE49F21287977003E5091 /* XMLTags.cpp */; };
@@ -450,6 +450,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				02DFE52521287978003E5091 /* ddjvuapi.h in Headers */,
+				02DFE50D21287978003E5091 /* miniexp.h in Headers */,
 				02DFE51121287978003E5091 /* DjVuDocEditor.h in Headers */,
 				02DFE53621287978003E5091 /* DjVuMessage.h in Headers */,
 				02DFE54621287978003E5091 /* ByteStream.h in Headers */,
@@ -490,7 +491,6 @@
 				02DFE52B21287978003E5091 /* DjVuNavDir.h in Headers */,
 				02DFE57321287978003E5091 /* config.h in Headers */,
 				02DFE53B21287978003E5091 /* DjVuDocument.h in Headers */,
-				02DFE50D21287978003E5091 /* miniexp.h in Headers */,
 				02DFE50621287978003E5091 /* IFFByteStream.h in Headers */,
 				02DFE56E21287978003E5091 /* GOS.h in Headers */,
 				02DFE50B21287978003E5091 /* DjVmNav.h in Headers */,
